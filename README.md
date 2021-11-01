@@ -5,5 +5,6 @@
 # Документы
 
 * [Видение](Documents/Vision.md)
-* [Словарь терминов](Documents/Dictionary.md)
 * [Дополнительная спецификация](Documents/Specification.md)
+* [Словарь терминов](Documents/Dictionary.md)
+
