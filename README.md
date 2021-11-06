@@ -6,5 +6,6 @@
 
 * [Видение](Documents/Vision.md)
 * [Дополнительная спецификация](Documents/Specification.md)
+* [Модель предметной области](Documents/Domain-model.md)
 * [Словарь терминов](Documents/Dictionary.md)
 * [Use-case диаграмма](Documents/Use-case.md)
