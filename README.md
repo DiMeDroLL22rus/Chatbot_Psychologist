@@ -9,3 +9,6 @@
 * [Модель предметной области](Documents/Domain-model.md)
 * [Словарь терминов](Documents/Dictionary.md)
 * [Use-case диаграмма](Documents/Use-case.md)
+
+# Ссылка на чат-бота
+[Telegram](https://t.me/psylogbot)
