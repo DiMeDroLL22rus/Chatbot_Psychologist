@@ -5,10 +5,12 @@
 ## Документы
 
 * [Видение](Documents/Vision.md)
+* [Диаграмма вариантов использования](Documents/Use-case.md)
+* [Диаграмма последовательности](Documents/Sequence.md)
 * [Дополнительная спецификация](Documents/Specification.md)
 * [Модель предметной области](Documents/Domain-model.md)
+* [Пользовательский интерфейс](Documents/User-interface.md)
 * [Словарь терминов](Documents/Dictionary.md)
-* [Use-case диаграмма](Documents/Use-case.md)
 
 ## Ссылка на чат-бота
 [Telegram](https://t.me/psylogbot)
