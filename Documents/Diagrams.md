@@ -1,9 +1,19 @@
 # Прочие диаграммы
 
-![BPMN.png](../Images/BPMN.png)
+### UML Диаграмма автоматов
+
 ![State-machine.png](../Images/State-machine.png)
 
-## Дополнительные диаграммы с упором на развитие отдельного мобильного приложения
+### BPMN Поведенческая модель
+
+![BPMN.png](../Images/BPMN.png)
+
+## С упором на развитие отдельного мобильного приложения
+
+### EPC Поведенческая модель
+
+![EPC.png](../Images/EPC.png)
+
+### DFD Диаграмма
 
 ![DFD.png](../Images/DFD.png)
-![EPC.png](../Images/EPC.png)
