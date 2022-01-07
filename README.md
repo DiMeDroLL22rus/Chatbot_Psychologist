@@ -8,6 +8,7 @@
 * [Диаграмма последовательности](Documents/Sequence.md)
 * [Дополнительная спецификация](Documents/Specification.md)
 * [Модель предметной области](Documents/Domain-model.md)
+* [Прочие диаграммы](Documents/Diagrams.md)
 * [Пользовательский интерфейс](Documents/User-interface.md)
 * [Словарь терминов](Documents/Dictionary.md)
 
